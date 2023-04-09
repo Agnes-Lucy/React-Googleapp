@@ -1,0 +1,32 @@
+.footer{
+    font-size: 15px;
+    margin-top: 210px;
+    background-color: rgb(243, 244, 248);    
+}
+.location {
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.moreinfo{
+    padding: 20px;
+    display: flex;
+    gap: 170px
+}
+
+.about {
+    display: flex;
+    gap: 25px;
+   
+}
+
+.carbon {
+    display: flex;
+    justify-content: center;
+}
+
+.privacy {
+     display:flex;
+     gap: 25px;
+     margin-left: 150px;
+}
