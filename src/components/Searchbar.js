@@ -10,7 +10,7 @@ const Searchbar = () => {
 
     const handleKeyDown = (event) => {
         if (event.key === 'Enter') {
-            e.preventDefault();
+            event.preventDefault();
         }
     }
 
